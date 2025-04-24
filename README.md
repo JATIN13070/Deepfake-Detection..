@@ -14,11 +14,7 @@ The model has been trained to detect visual anomalies typically found in deepfak
 
 ---
 
-## 🖥️ Live Demo
 
-> _A live version can be deployed on platforms like **Streamlit Community Cloud**, **Heroku**, or **Render**._
-
----
 
 ## 📷 Features
 
